@@ -1,0 +1,62 @@
+# 💼 Joseph Muriithi - Personal Portfolio Website
+
+Welcome to my personal developer portfolio! This website showcases my skills, projects, education, and experience as a Software Developer, UI/UX Designer, and SEO Specialist.
+
+---
+
+## 📌 About the Project
+
+This is a fully responsive, animated portfolio website created using only **HTML and CSS**, without any JavaScript. The site is designed to highlight my capabilities in:
+
+- Web Development
+- UI/UX Design
+- Search Engine Optimization (SEO)
+- Graphic Design
+- Real-world Project Experience
+
+---
+
+## 🌐 Live Demo
+
+🖥️ [Visit the Live Site](https://your-portfolio-url-here.com)  
+📂 [GitHub Repository](https://github.com/JosephMuriithiWarui/your-portfolio-repo)
+
+---
+
+## 🔧 Technologies Used
+
+- **HTML5**
+- **CSS3**
+- Responsive Design (Media Queries)
+- CSS Animations and Transitions
+- Custom CSS Grid & Flexbox Layouts
+- CSS-only smooth scrolling and hover effects
+
+---
+
+## 📁 Folder Structure
+
+```bash
+project-folder/
+├── index.html
+├── styling/
+│   └── style.css
+├── images/
+│   └── profile.png, mobi.png, judging.png
+├── icons/
+│   └── menu.svg, github.png, linkedin.png, etc.
+└── README.md
+
+Project Highlights
+1. Mobihub E-commerce
+A front-end project using HTML, CSS, and JavaScript.
+
+2. Judging System
+A full-stack system built using PHP, MySQL, HTML, CSS, and JavaScript.
+
+
+Author
+Joseph Muriithi Warui
+📧 Email: waruijoseph15@gmail.com
+📞 Phone: +254 707 590062
+🌍 Location: Nakuru, Kenya
